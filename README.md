@@ -40,7 +40,7 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [Sass/SCSS](https://sass-lang.com/) - CSS preprocessor
+- [Sass/SCSS](https://sass-lang.com/) - CSS preprocessor 
 
 ## Author
 
