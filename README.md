@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Testimonials grid section with SCSS](https://www.frontendmentor.io/solutions/testimonials-grid-section-n0dar7IckR)
 - Live Site URL: [tegrise](https://tegrise.netlify.app/)
 
 ## My process
