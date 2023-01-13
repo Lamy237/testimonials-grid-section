@@ -1,0 +1,17 @@
+@use '../util' as u;
+
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap');
+
+h1,
+h2 {
+    font-weight: 600;
+}
+
+h2 {
+    font-size: u.rem(22);
+    letter-spacing: 0.02em;
+}
+
+p {
+    line-height: 1.5;
+}

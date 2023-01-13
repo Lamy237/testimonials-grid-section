@@ -1,0 +1,32 @@
+@use '../util' as u;
+
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+html {
+    font-size: 100%;
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+body {
+    min-height: 100vh;
+    background-color: var(--LIGHT-GRAYISH-BLUE);
+
+    display: grid;
+    place-content: center;
+}
+
+.nowrap {
+    white-space: nowrap;
+}

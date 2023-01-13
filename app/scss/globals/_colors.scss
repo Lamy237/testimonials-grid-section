@@ -1,0 +1,12 @@
+@use '../util' as u;
+
+:root {
+    --GRAY: hsl(0, 0%, 50%);
+    --LIGHT-GRAY: hsl(0, 0%, 81%);
+    --LIGHT-GRAYISH-BLUE: hsl(210, 46%, 95%);
+    --MODERATE-VIOLET: hsl(263, 55%, 52%);
+    --VERY-DARK-BLACKISH-BLUE: hsl(219, 29%, 14%);
+    --VERY-DARK-GRAYISH-BLUE: hsl(217, 19%, 35%);
+    --VIOLET: hsl(300, 76%, 72%);
+    --WHITE: hsl(0, 0%, 100%);
+}
